@@ -1,3 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://winston.sirapollokaggwaschools.co.ug/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Winston Day and Boarding Primary School - Kawempe'
+theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
+
+
+[params]
+logo = "/img/logo.png"
+mainSchool = false
+defaultDescription = "Winston Day and Boarding Primary School-Kawempe is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level."
+    [params.school]
+        name = "winston"
+        motto = 'Education with a Purpose'
+        mission = 'To be a leading school in the provision of quality education'
+        vision = 'The vision of Winston Day and Boarding Primary School, Kawempe is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work.'
+        summary1 = 'Winston Day and Boarding Primary School-Kawempe is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level. The school has two sections i.e pre-school and Primary school.'
+        summary2 = 'At Winston Day and Boarding Primary School, Kawempe, we are always learning through a holistic curriculum where individual talents are celebrated and nurtured. Working together as one team, in a caring, yet stimulating environment, we ensure that as an organization, excellence is the expectation. Our network of strong pastoral support fulfills the ambitions of students so that graduates go on to make a positive difference to the world in which they live.'
+        hm = "Not only that but also our pupils are equipped with skills in swimming, ball games, athletics, home economics, debate, and computer knowledge.The school is multi-denominational because all religions are given an hour per week to strengthen their faith. We go-ahead to hold confirmation and holy communion functions at school yearly"
+    [params.carousel]
+        two = "Offering a broad learning environment"
+        three = "We train leaders by embracing smartness"
+        four = "Offering the best learning skills to students"
+        five = "Welcoming all types of students"
+        six = "Interactive teachers that monitor pupils in all activities"
+        
