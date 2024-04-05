@@ -9,6 +9,7 @@ logo = "/img/logo.png"
 mainSchool = false
 defaultDescription = "Winston Day and Boarding Primary School-Kawempe is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level."
     [params.school]
+        hm_name = "LUBOGO STEVEN"
         name = "winston"
         motto = 'Education with a Purpose'
         mission = 'To be a leading school in the provision of quality education'
