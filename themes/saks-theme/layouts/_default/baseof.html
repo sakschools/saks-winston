@@ -1,0 +1,42 @@
+<!-- layouts/_default/baseof.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {{ partial "shared/head.html" . }}
+  {{ partial "shared/google-analystics.html" . }}
+</head>
+<body>
+  <!-- facebook  JavaScript SDK -->
+  {{ partial "shared/facebook_sdk.html" . }}
+
+  <!-- Spinner -->
+  {{ partial "shared/spinner.html" . }}
+
+  <!-- Topbar -->
+  {{ partial "shared/topbar.html" . }}
+
+  <!-- Navbar -->
+  {{ partial "shared/nav.html" . }}
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <!-- Footer -->
+  {{ partial "shared/footer.html" . }}
+  
+<!-- Start of OpenWidget (www.openwidget.com) code -->
+<script>
+  window.__ow = window.__ow || {};
+  window.__ow.organizationId = "c92de1cd-cec7-4a6c-89cd-5b18e718d157";
+  ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[OpenWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.openwidget.com/openwidget.js",t.head.appendChild(n)}};!n.__ow.asyncInit&&e.init(),n.OpenWidget=n.OpenWidget||e}(window,document,[].slice))
+</script>
+<noscript>You need to <a href="https://www.openwidget.com/enable-javascript" rel="noopener nofollow">enable JavaScript</a> to use the communication tool powered by <a href="https://www.openwidget.com/" rel="noopener nofollow" target="_blank">OpenWidget</a></noscript>
+<!-- End of OpenWidget code -->
+
+  <!-- JavaScript Libraries and Template Javascript -->
+  {{ partial "shared/scripts.html" . }}
+</body>
+ <!-- View Counter -->
+<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=get_viewers_ip"></script>
+</html>

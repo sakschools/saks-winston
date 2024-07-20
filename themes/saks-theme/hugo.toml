@@ -1,0 +1,12 @@
+baseURL = 'https://www.sirapollokaggwaschools.co.ug/'
+languageCode = 'en-us'
+title = 'Sir Apollo Kaggwa Schools'
+
+[params]
+  [params.social]
+    tel = '+256 782626142'
+    email = 'info@sirapollokaggwaschools.co.ug'
+    whatsapp = 'https://wa.me/256782626142'
+    facebook = 'https://www.facebook.com/SakKitintale'
+    twitter = 'https://twitter.com/SirApollo_CPS?s=20'
+    youtube = 'https://www.youtube.com/@sirapollokaggwaschools3084?si=EvOVGMKWSkRHu_pv'

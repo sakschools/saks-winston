@@ -1,7 +1,7 @@
 baseURL = 'https://winston.sirapollokaggwaschools.co.ug/'
 languageCode = 'en-us'
 title = 'Winston Day and Boarding Primary School - Kawempe'
-theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
+theme = "saks-theme"
 
 
 [params]

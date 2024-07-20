@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ partial "sections/topheader.html" . }}
+  <div class="container">
+    {{ .Content}}
+  </div>
+  {{ partial "sections/testimonial.html" . }}
+{{ end }}
