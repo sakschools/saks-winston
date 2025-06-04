@@ -19,8 +19,43 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DDTHH:mm:ssZ' }
-      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image',
-          choose_url: false,
-          media_library: { config: { folder: 'posts' } }
-        }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', choose_url: false, media_library: { config: { folder: 'posts' } } }
       - { label: 'Content', name: 'body', widget: 'markdown' }
+
+  - name: "pages"
+    label: "Site Pages"
+    files:
+      - label: "About Us Page"
+        name: "about"
+        file: "content/about/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - label: "Head Master Page"
+        name: "hm"
+        file: "content/hm/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - label: "Head Prefect Page"
+        name: "hp"
+        file: "content/hp/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - label: "Staff Page"
+        name: "staff"
+        file: "content/staff/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - label: "Motto,Vision and Mission Page"
+        name: "mvm-page"
+        file: "content/motto-vission-mission/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
