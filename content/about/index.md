@@ -21,7 +21,7 @@ The school mission statement is “to provide a stimulating and credible learnin
 1. **CARE:** We respect the needs of our customers and stakeholders. We will ensure they feel listened to and cared for.
 2. **ACADEMIC EXCELLENCE:** We dream big setting ambitious goals, delivering the highest quality and aiming to be the best at what we do.
 3. **TEAMWORK:** We believe in teamwork. Our team works with the bigger picture in mind. We put the team’s needs ahead of our own.
-4. **EQUALITY:** Fairways Primary School values all members of the school community equally; and encourages other school stakeholders, including pupils to do the same. We promote and practice tolerance, respect and patience in the school community.
+4. **EQUALITY:** Winston Day and Boarding primary School Primary School values all members of the school community equally; and encourages other school stakeholders, including pupils to do the same. We promote and practice tolerance, respect and patience in the school community.
 5. **CONTINUOUS LEARNING:** Our open-minded curiosity fuels our passion for learning. We ask questions and listen so that we continuously learn and improve.
 
 The school has maintained its remarkable academic excellence and pupil’s welfare and this is attributed to the committed and caring Directors, Administrators, parents as well as the committed staff. We boast of a number of school facilities that facilitate a conducive learning environment and these include:
