@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sakschools/saks-fairways
+  repo: sakschools/saks-winston
   branch: main
   site_domain: https://winston.sirapollokaggwaschools.co.ug
   base_url: https://winston.sirapollokaggwaschools.co.ug
