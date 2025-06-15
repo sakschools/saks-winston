@@ -1,19 +1,20 @@
 ---
 title: HEAD TEACHER'S MESSAGE
 ---
-# HEAD PREFECT’S MESSAGE
+## Mr. Lubogo Steven – Head Teacher
 
-I am Acheng Karen Daniels, the current President of the Pupils’ Leadership Body at Winston Day and Boarding Primary School – Kawempe. I am honoured to lead a dedicated team of prefects who actively support the smooth running of our school. Together, we work hand in hand with the administration and staff to promote discipline, uphold school values, and ensure that every pupil thrives in a well-managed learning environment.
+Welcome to Winston Day and Boarding Primary School Kawempe , a distinguished centre of academic excellence and character formation nestled in the heart of Uganda. At Winston, we are passionately committed to providing holistic, high-quality primary education that not only meets but consistently exceeds national standards. Our pupils continually shine in the Primary Leaving Examinations (PLE), a clear reflection of our dedicated staff, effective teaching methodologies, and the nurturing learning environment we have cultivated.
 
-Our primary focus is academics. We closely collaborate with our teachers to ensure that the academic routine is followed consistently and effectively. We monitor activities such as morning work, which keeps early arrivals engaged in productive learning, and lunch-hour reviews that reinforce previously covered content. We believe that a strong academic culture lays the foundation for excellence, and we are committed to maintaining it.
+Education at Winston is not limited to academic performance alone. We take great pride in offering a well-rounded curriculum that nurtures every aspect of a child’s development. Alongside strong academics, we run a robust Talent Development Programme, where pupils are trained in swimming, ball games, debate, home economics, chess, and the performing arts. These activities enhance creativity, discipline, teamwork, physical fitness, and critical thinking, skills that prepare learners for success both in school and beyond.
 
-Beyond academics, we also prioritise the general welfare of our fellow pupils. One of our key responsibilities is overseeing the school meals—from storage, through preparation, to serving. Our major concern is the quality and quantity of the food provided. We strive to ensure that every pupil receives a nutritious and satisfying meal that contributes to their overall well-being and ability to concentrate in class.
+To support the formation of responsible, respectful, and morally upright individuals, Winston has instituted a structured Behaviour Building Programme. Through this initiative, pupils are guided in developing good manners, leadership qualities, empathy, emotional intelligence, and respect for authority. Discipline is positively enforced, and every learner is encouraged to take responsibility for their actions and to strive for personal excellence in both word and deed.
 
-Sanitation and hygiene are also high on our list of priorities. We understand that a clean environment promotes good health and effective learning. As such, we frequently inspect the kitchen, utensils, classrooms, toilets, and the school compound to ensure cleanliness is maintained. A healthy learning environment fosters comfort, safety, and productivity for all pupils.
+We are proudly multi-denominational, embracing Uganda’s beautiful religious diversity. Each week, time is allocated for faith-based instruction, where Christian pupils receive dedicated lessons in Christian values and biblical teachings, while Muslim pupils engage in Islamic theology and Quranic studies. In addition, we host special spiritual milestones such as Holy Communion, Confirmation ceremonies, and Islamic celebrations, all conducted respectfully within the school environment. This commitment to spiritual growth ensures that learners are grounded in values, faith, and moral clarity.
 
-We are deeply grateful to our Directors and School Management for establishing Winston Day and Boarding Primary School on values that accommodate all religious denominations. This inclusive approach allows us to grow not only academically but also spiritually. By the time we leave the primary level, we are well-prepared to face the world as morally upright and religiously aware individuals.
+At Winston, we believe in nurturing the whole child. Our enriched curriculum blends academic achievement with character formation, creativity with discipline, and spiritual grounding with real-world readiness. We offer a safe, inclusive, and loving environment where each child’s potential is not only discovered but actively sharpened and celebrated.
 
-I warmly encourage every parent and guardian to consider enrolling their child at Winston Day and Boarding Primary School – Kawempe. With our strong academic program, commitment to discipline, emphasis on spiritual growth, talent development through co-curricular activities, and focus on pupil welfare, your child is guaranteed a solid foundation and a path towards a first grade.
+We would be deeply honoured to welcome your child into the Winston family. Join us on this transformative journey — one marked by academic brilliance, personal growth, spiritual grounding, and a lifelong love for learning.
 
-* **ACHENG KAREN DANIELS**
-* **CURRENT PRESIDENT**
+###### Mr. Lubogo Steven
+
+## Head Teacher
