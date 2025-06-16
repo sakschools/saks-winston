@@ -1,6 +1,6 @@
 ---
 title: Winston Wraps Up Term One 2024 with a Spectacular Middle Section Sports Gala
-date: 2025-06-15T06:49:00+03:00
+date: 2024-05-07T09:49:00+06:00
 thumbnail: /img/dsc_0355.webp
 ---
 Winston Day and Boarding Primary School Kawempe joyfully brought Term One of 2024 to a close with a grand celebration,our much-anticipated Middle Section Sports Gala. This colourful and action-packed event, exclusively organized for Primary Four to Primary Six pupils, served as a vital platform for talent exploration, physical fitness, and character development among our young learners.
