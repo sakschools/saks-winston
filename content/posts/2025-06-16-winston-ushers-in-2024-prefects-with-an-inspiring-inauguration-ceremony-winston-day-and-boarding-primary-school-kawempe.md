@@ -8,7 +8,7 @@ In a spectacle of unwavering leadership and fervent dedication, Winston Day and 
 
 In the glow of the school’s storied history, newly elected prefects stepped into the limelight, their expressions a blend of determination and humility, poised to champion integrity and service among their peers. With each step forward, they symbolized a beacon of hope, heralding a new chapter characterized by leadership, unity, and academic excellence. Against a backdrop of eager anticipation, the ceremony unfolded, enveloping all present in a radiant aura of pride and optimism—pupils, educators, administrators, parents, and distinguished guests alike—uniting them in a shared vision of a brighter future.
 
-<https://youtu.be/UmqD-UzmWZA>
+ [\[![Watch the video](https://img.youtube.com/vi/4WyzlSQdn0A/0.jpg)](https://youtu.be/4WyzlSQdn0A)](<[![Watch the video](https://img.youtube.com/vi/4WyzlSQdn0A/0.jpg)](https://youtu.be/4WyzlSQdn0A)>)[](<[![Watch the video](https://img.youtube.com/vi/4WyzlSQdn0A/0.jpg)](https://youtu.be/4WyzlSQdn0A)>)
 
 As the curtains rose on this pivotal moment, the air was charged with a palpable sense of hope and aspiration. With each solemn oath taken, the newly elected prefects pledged their allegiance to a noble cause—serving their school community with unyielding integrity and fervent passion. Under the guidance of the school’s administration and the venerable Chairperson of the independent electoral commission, the proceedings embodied a harmonious symphony of unity and collaboration, as the torchbearers of tomorrow embraced their mantle of responsibility with unwavering determination.
 
@@ -25,8 +25,6 @@ Expressing heartfelt gratitude, Serena extended appreciation to her fellow prefe
 > **“I want to take this opportunity to express my deepest gratitude to each and every one of you. To my fellow prefects, thank you for your dedication, hard work, and unwavering support. It has been a privilege to serve alongside you and witness your passion for our school community. To our teachers and staff, thank you for your guidance, encouragement, and commitment to our success. Your mentorship has been invaluable, and I am grateful for the lessons you have taught us both inside and outside the classroom. And to my fellow pupils, thank you for entrusting me with the responsibility of representing you as your president. It has been an honor to advocate for our needs and work towards making our school a better place for all. Lastly, I am profoundly grateful to the parents of our esteemed school community for their unwavering support, guidance, and encouragement throughout my tenure. Your steadfast commitment to the well-being and academic success of your children has served as a beacon of inspiration for us all. Your active engagement and participation in school activities have not only enriched the educational experience but have also cultivated a robust sense of camaraderie and unity among us.”** she emphasized, underscoring the importance of collaboration and camaraderie.
 
 As Serena imparted valuable lessons learned during her term, she urged her peers to embrace leadership, integrity, and compassion in all their endeavors. Amidst the celebration of achievements and the transition to incoming prefects, Serena concluded with a message of hope and optimism for the future. Her words resonated deeply, igniting a sense of purpose and unity among all those present, inspiring them to continue striving for excellence and making a positive impact in their school community and beyond.
-
-
 
 > **“I have learned the importance of leadership, teamwork, and perseverance. I have learned that true leadership is about serving others and making a positive impact on the lives of those around you. I encourage each of you to embrace the opportunities that come your way, to lead with integrity and compassion, and to never stop striving for excellence. Remember that each of you has the power to make a difference in the world, and I have no doubt that you will go on to achieve great things. I want to thank you all once again for your support and friendship. It has been an honor to serve as your president, and I am grateful for the opportunity to have been a part of this incredible journey. As I step down from my role, I am filled with hope and excitement for the future of our school community. To the incoming prefects, I offer my heartfelt congratulations and best wishes as you begin your term of office. I know that you will lead with courage, compassion, and dedication, and I look forward to seeing all that you will accomplish in the days and years to come. Thank you, and may our school continue to thrive and flourish under your leadership,”** she concluded, her words echoing with the promise of a bright tomorrow.
 
@@ -46,20 +44,11 @@ In a touching tribute to her parents, Riah extended heartfelt appreciation for t
 
 Addressing her newly appointed cabinet, Riah emphasized the importance of upholding the values of service and impartiality, reminding them that they are servants entrusted with the welfare of their peers, rather than rulers. She urged them to adhere to the school’s regulations with diligence and fairness, emphasizing the equal treatment of all pupils regardless of their voting affiliations. Riah’s words resonated with a sense of purpose and dedication, setting the tone for a term marked by integrity and inclusivity.
 
-
-
 > **To my cabinet, time has come for us to execute our duties diligently as we promised the electorate. We need to perform as required by the school rules and regulations without fear or favour.  We are servants not rulers. Let us treat all pupils equally without looking at who voted us and who did not.  We should exercise professionalism and leadership as guided by our superiors.  Never be biased in any judgment because all leadership comes from God.** She emphasized
 
 In closing, Riah expressed gratitude to her fellow pupils for their trust and confidence in the Guild cabinet, promising to deliver exemplary service in areas vital to the school’s well-being, such as sanitation, hygiene, discipline, and property management. With a resounding call to action, she wished all present the best, encapsulating her commitment with the timeless motto, “For God and my Country” . As the audience dispersed, the echoes of Riah’s words lingered, inspiring hope and determination among all who bore witness to this momentous occasion.
 
 ```
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/a0klYVqKu9o"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-
 
 ```
 
