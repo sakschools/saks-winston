@@ -1,6 +1,5 @@
 ---
-title: Winston Ushers in 2024 Prefects with an Inspiring Inauguration Ceremony |
-  Winston Day And Boarding Primary School Kawempe
+title: Winston Ushers in 2024 Prefects with an Inspiring Inauguration Ceremony
 date: 2024-04-15T14:17:00+06:00
 thumbnail: /img/blue-and-yellow-modern-business-youtube-thumbnail_20240415_135854_0000.webp
 ---
