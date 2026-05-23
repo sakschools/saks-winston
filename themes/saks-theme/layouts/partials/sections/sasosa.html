@@ -1,16 +1,49 @@
 <!-- SASOSA Header Start -->
+{{ $social := index hugo.Data.settings "social" }}
+
 <div class="container-fluid page-header py-6 my-3 mt-0 wow fadeIn" data-wow-delay="0.1s">
     <div class="container text-center">
         <h1 class="display-4 text-white animated slideInDown mb-4">SASOSA</h1>
-        <P class="fw-bold text-primary">Sir Apollo Kaggwa Old Students Association</P>
+        <p class="fw-bold text-primary">Sir Apollo Kaggwa Old Students Association</p>
+        
         <!-- Social Media Icons -->
         <div class="social-icons">
-            <a href="{{ .Site.Params.social.whatsapp }}" class="text-decoration-none me-3"><i class="fab fa-whatsapp" style="color: #25D366; font-size: 36px;"></i></a>
-            <a href="{{ .Site.Params.social.facebook }}" class="text-decoration-none me-3"><i class="fab fa-facebook-f" style="color: #3b5998; font-size: 36px;"></i></a>
-            <a href="{{ .Site.Params.social.twitter }}" class="text-decoration-none me-3"><i class="fab fa-twitter" style="color: #1da1f2; font-size: 36px;"></i></a>
-            <a href="{{ .Site.Params.social.youtube }}" class="text-decoration-none me-3"><i class="fab fa-youtube" style="color: #ff0000; font-size: 36px;"></i></a>
+            {{ with $social.whatsapp }}
+            <a href="{{ . }}" class="text-decoration-none me-3" title="WhatsApp">
+                <i class="fab fa-whatsapp" style="color: #25D366; font-size: 36px;"></i>
+            </a>
+            {{ end }}
+
+            {{ with $social.facebook_url }}
+            <a href="{{ . }}" class="text-decoration-none me-3" title="Facebook">
+                <i class="fab fa-facebook-f" style="color: #3b5998; font-size: 36px;"></i>
+            </a>
+            {{ end }}
+
+            {{ with $social.twitter }}
+            <a href="{{ . }}" class="text-decoration-none me-3" title="X (Twitter)">
+                <i class="fab fa-x-twitter" style="color: #000000; font-size: 36px;"></i>
+            </a>
+            {{ end }}
+
+            {{ with $social.instagram }}
+            <a href="{{ . }}" class="text-decoration-none me-3" title="Instagram">
+                <i class="fab fa-instagram" style="color: #E1306C; font-size: 36px;"></i>
+            </a>
+            {{ end }}
+
+            {{ with $social.youtube_url }}
+            <a href="{{ . }}" class="text-decoration-none me-3" title="YouTube">
+                <i class="fab fa-youtube" style="color: #ff0000; font-size: 36px;"></i>
+            </a>
+            {{ end }}
+            
+            {{ with $social.tel }}
+            <a href="tel:{{ . }}" class="text-decoration-none me-3" title="Call Us">
+                <i class="fa fa-phone" style="color: #007bff; font-size: 36px;"></i>
+            </a>
+            {{ end }}
         </div>        
-        
     </div>
 </div>
 <!-- SASOSA Header End -->

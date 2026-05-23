@@ -1,0 +1,24 @@
+{
+  "heading": "TESTIMONIALS",
+  "sub_heading": "What Our Parents Say!",
+  "reviews": [
+    {
+      "name": "LYNN KUNIHIRA AKKY",
+      "role": "Parent",
+      "image": "/img/testimonial-2.png",
+      "text": "All my children have gone through Sir Apollo Kaggwa P/S Mengo and I don't regret it at all. They brought the best out of them. And my First born got 4 aggregates. Now at Kings College Budo. Thumbs up to the staff, pupils and parents of Sir Apollo schools."
+    },
+    {
+      "name": "KWAGZY BREEZY",
+      "role": "Teacher",
+      "image": "/img/testimonial-1.png",
+      "text": "Sir Apollo molds what a parent wants his/her child to be cause their motto is they enable the future. Currently most of the head-prefects in these first class secondary schools are former Sir Apollo Students."
+    },
+    {
+      "name": "CHARITY BYARUBAGA",
+      "role": "Parent",
+      "image": "/img/testimonial-3.png",
+      "text": "Sir Apollo Kaggwa P/S Mengo has set a great Academic Pace in Central Region…….it has not compromised our expectations…..BIG UP's for the Administration team and teaching staff!!!"
+    }
+  ]
+}

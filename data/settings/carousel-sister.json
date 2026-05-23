@@ -1,0 +1,45 @@
+{
+  "slides": [
+    {
+      "image": "/img/carousel1.webp",
+      "content": {
+        "description": "Welcome to Winston Day and Boarding Primary School Kawempe"
+      }
+    },
+    {
+      "image": "/img/carousel2.webp",
+      "content": {
+        "topic": "Environment",
+        "description": "Offering a broad learning environment"
+      }
+    },
+    {
+      "image": "/img/carousel3.webp",
+      "content": {
+        "topic": "Leadership",
+        "description": "We train leaders by embracing smartness"
+      }
+    },
+    {
+      "image": "/img/carousel4.webp",
+      "content": {
+        "topic": "Skills",
+        "description": "Offering the best learning skills to students"
+      }
+    },
+    {
+      "image": "/img/carousel5.webp",
+      "content": {
+        "topic": "Community",
+        "description": "Welcoming all types of students"
+      }
+    },
+    {
+      "image": "/img/carousel6.webp",
+      "content": {
+        "topic": "Guidance",
+        "description": "Interactive teachers that monitor pupils in all activities"
+      }
+    }
+  ]
+}

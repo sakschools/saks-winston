@@ -59,3 +59,95 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "settings"
+    label: "Site Settings"
+    delete: false # Prevent accidental deletion of core config files
+    files:
+      - label: "General School Info"
+        name: "general"
+        file: "data/settings/general.json"
+        fields:
+          - { label: "Site Title", name: "title", widget: "string" }
+          - { label: "School Logo", name: "logo", widget: "image" }
+          - { label: "School Email", name: "email", widget: "string" }
+          - { label: "Google Maps Embed URL", name: "google_map_src", widget: "text" }
+          - { label: "School Info", name: "school", widget: "object", fields: [
+              { label: "Motto", name: "motto", widget: "string" },
+              { label: "Mission", name: "mission", widget: "text" },
+              { label: "Vision", name: "vision", widget: "text" }
+            ]}
+
+      - label: "Homepage About Section"
+        name: "about_home"
+        file: "data/settings/about.json"
+        fields:
+          - { label: "Motto", name: "motto", widget: "string" }
+          - { label: "Primary Summary", name: "summary1", widget: "text" }
+          - { label: "Secondary Summary", name: "summary2", widget: "text" }
+          - { label: "Read More Link", name: "read_more_link", widget: "string" }
+          - label: "Gallery Images"
+            name: "images"
+            widget: "list"
+            summary: '{{fields.image}}'
+            field: { label: "Image Path", name: "image", widget: "image" }      
+
+      - label: "Social Media & Contact"
+        name: "social"
+        file: "data/settings/social.json"
+        fields:
+          - { label: "Phone Number", name: "tel", widget: "string" }
+          - { label: "WhatsApp Link", name: "whatsapp", widget: "string" }
+          - { label: "Facebook URL", name: "facebook_url", widget: "string" }
+          - { label: "X (Twitter) URL", name: "twitter", widget: "string" }
+          - { label: "Instagram URL", name: "instagram", widget: "string" }
+          - { label: "TikTok URL", name: "tiktok_url", widget: "string" }
+          - { label: "YouTube URL", name: "youtube_url", widget: "string" }
+
+      - label: "Homepage Carousel"
+        name: "carousel"
+        file: "data/settings/carousel-sister.json"
+        fields:
+          - label: "Slides"
+            name: "slides"
+            widget: "list"
+            fields:
+              - { label: "Slide Image", name: "image", widget: "image" }
+              - label: "Content"
+                name: "content"
+                widget: "object"
+                fields:
+                  - { label: "Topic", name: "topic", widget: "string", required: false }
+                  - { label: "Description", name: "description", widget: "string" }
+
+      - label: "Testimonials"
+        name: "testimonials"
+        file: "data/settings/testimonials.json"
+        fields:
+          - { label: "Section Heading", name: "heading", widget: "string" }
+          - { label: "Sub-Heading", name: "sub_heading", widget: "string" }
+          - label: "Parent Reviews"
+            name: "reviews"
+            widget: "list"
+            fields:
+              - { label: "Parent Name", name: "name", widget: "string" }
+              - { label: "Role", name: "role", widget: "string" }
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Review Text", name: "text", widget: "text" }
+
+      - label: "Alumni Section"
+        name: "alumni"
+        file: "data/settings/alumni.json"
+        fields:
+          - { label: "Alumni Banner Image", name: "image", widget: "image" }
+          - { label: "Image Alt Text", name: "image_alt", widget: "string" }
+          - { label: "Welcome Message", name: "welcome_message", widget: "text" }
+
+      - label: "Head Teacher Message"
+        name: "hm_message"
+        file: "data/settings/headteacher.json"
+        fields:
+          - { label: "Section Title", name: "title", widget: "string" }
+          - { label: "Head Teacher Name", name: "name", widget: "string" }
+          - { label: "Official Portrait", name: "image", widget: "image" }
+          - { label: "Message Preview", name: "message_preview", widget: "text" }

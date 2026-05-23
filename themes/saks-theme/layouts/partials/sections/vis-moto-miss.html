@@ -1,16 +1,18 @@
 <div class="container py-5">
+    {{ $general := index hugo.Data.settings "general" }}
     <div class="row">
         <div class="col-md-4">
             <h2 class="mb-4">Motto</h2>
-            <p>"{{ .Site.Params.school.motto}}"</p>
+            {{/* Accessing the nested school object */}}
+            <p>"{{ $general.school.motto }}"</p>
         </div>
         <div class="col-md-4">
             <h2 class="mb-4">Mission</h2>
-            <p>"{{ .Site.Params.school.mission}}"</p>
+            <p>"{{ $general.school.mission }}"</p>
         </div>
         <div class="col-md-4">
             <h2 class="mb-4">Vision</h2>
-            <p>{{ .Site.Params.school.vision}}</p>
+            <p>{{ $general.school.vision }}</p>
         </div>
     </div>
 </div>
