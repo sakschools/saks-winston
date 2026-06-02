@@ -1,7 +1,9 @@
 ---
 title: HEAD TEACHER'S MESSAGE
 ---
-## Mr. Lubogo Steven – Head Teacher
+## Mr. Bwisuka Geoffrey – Head Teacher
+
+![](/img/476267.jpg)
 
 Welcome to Winston Day and Boarding Primary School Kawempe , a distinguished centre of academic excellence and character formation nestled in the heart of Uganda. At Winston, we are passionately committed to providing holistic, high-quality primary education that not only meets but consistently exceeds national standards. Our pupils continually shine in the Primary Leaving Examinations (PLE), a clear reflection of our dedicated staff, effective teaching methodologies, and the nurturing learning environment we have cultivated.
 
@@ -15,6 +17,6 @@ At Winston, we believe in nurturing the whole child. Our enriched curriculum ble
 
 We would be deeply honoured to welcome your child into the Winston family. Join us on this transformative journey — one marked by academic brilliance, personal growth, spiritual grounding, and a lifelong love for learning.
 
-###### Mr. Lubogo Steven
+###### Mr. Bwisuka Geoffrey 
 
 ## Head Teacher
