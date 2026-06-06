@@ -1,4 +1,0 @@
----
-title: "Alumni"
-type: alumni
----

@@ -1,9 +1,13 @@
 baseURL = 'https://winston.sirapollokaggwaschools.co.ug/'
 locale = 'en-us'
 title = 'Winston Day and Boarding Primary School - Kawempe'
-theme = "saks-theme"
+
+[module]
+  [[module.imports]]
+    path = 'github.com/sakschools/saks-shared-theme'
 
 
 [params]
 logo = "/img/logo.png"
 mainSchool = false
+github_repo = "saks-winston"
